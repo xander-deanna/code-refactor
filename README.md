@@ -4,7 +4,7 @@ code-refractor - Homework assignment for 12/19/2020
 
 This week's assignment was all about accessibility and cleanliness. 
 
-I started this assignment by ensuring as many assets as possible where labeled with an <alt> or <title> tag describing the asset. 
+I started this assignment by ensuring as many assets as possible where labeled with an alt or title tag describing the asset. 
 
 From there I cleaned up the css so that there wasn't any unnecessary repeats of information. 
 
