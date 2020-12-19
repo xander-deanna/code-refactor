@@ -8,15 +8,12 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Header attributes*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
 }
 
-
-/* Text color for title */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -24,8 +21,6 @@ body {
 
 .seo {
     color: #d9dcd6;}
-
-
 
 .header nav {
     padding-top: 15px;
@@ -40,6 +35,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,7 +45,6 @@ p {
     font-size: 16px;
 }
 
-/* Hero image attriburtes */
 .hero {
     height: 800px;
     width: 100%;
